@@ -1,0 +1,9 @@
+**Rating**: Overweight
+
+**Executive Summary**: Initiate a scale-in strategy for CMCSA, breaking the entry into 3-4 tranches starting near the $24.76 book value to build an Overweight position. Deploy a starter tranche immediately to secure the 5.33% dividend yield, but withhold further capital until technical stabilization—such as reclaiming the 10-day EMA at $25.63—is confirmed. Maintain a hard stop loss at $22.50 to protect against continued downside momentum.
+
+**Investment Thesis**: The analyst debate centers on whether CMCSA is a structurally declining value trap or a deeply discounted infrastructure monopoly. The bearish argument correctly highlights ominous technical indicators, including a definitive Death Cross, trading 12% below the 200-day SMA, and heavy institutional distribution on April 24th, alongside legitimate concerns regarding the $98.9B debt load and a 25% drop in normalized income to $12.29B. However, the fundamental mispricing is ultimately too substantial to ignore. CMCSA is currently trading at a 1.0 Price-to-Book ratio and a normalized P/E near 7x, supported by an incredible $19.23B in absolute free cash flow. The resulting 10.5% recurring FCF yield thoroughly neutralizes the debt concerns, covering interest payments multiple times over while funding an aggressive buyback program that is retiring 16% of shares over three years. Furthermore, the Versant media spinoff has successfully de-risked the portfolio, leaving a highly defensive connectivity business equipped to combat fiber and FWA competition through rural expansion and Mobile/Wi-Fi bundling. Because the technical momentum remains decidedly negative, scaling into the position via tranches satisfies the need to capture the 32% margin of safety and secure the 5.33% dividend yield without catching the falling knife all at once.
+
+**Price Target**: 32.74
+
+**Time Horizon**: Long-term
