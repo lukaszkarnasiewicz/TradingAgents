@@ -82,7 +82,7 @@ def run(ticker: str | None = None) -> None:
     selected_analyst_keys = [k for k in ANALYST_ORDER if k in {a.value for a in analyst_objects}]
 
     analyst_execution_plan = build_analyst_execution_plan(
-        selected_analyst_keys, concurrency_limit=config["analyst_concurrency_limit"]
+        selected_analyst_keys
     )
     analyst_wall_time_tracker = AnalystWallTimeTracker(analyst_execution_plan)
     stats_handler = StatsCallbackHandler()
