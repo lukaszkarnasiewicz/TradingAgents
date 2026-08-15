@@ -1,0 +1,16 @@
+# Normalize line endings to LF in the repository and working tree,
+# regardless of the local core.autocrlf setting, so Git stops warning
+# about LF/CRLF conversion on Windows.
+* text=auto eol=lf
+
+*.bat text eol=crlf
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+*.jar binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary

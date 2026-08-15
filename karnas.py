@@ -6,6 +6,7 @@ Only prompts for the ticker symbol. Everything else comes from DEFAULT_CONFIG
 saved automatically.
 """
 
+import argparse
 import datetime
 import time
 from pathlib import Path
@@ -14,27 +15,27 @@ import questionary
 from rich.console import Console
 from rich.live import Live
 
-from tradingagents.graph.trading_graph import TradingAgentsGraph
+from cli.main import (
+    ANALYST_ORDER,
+    classify_message_type,
+    create_layout,
+    display_complete_report,
+    message_buffer,
+    save_report_to_disk,
+    update_analyst_statuses,
+    update_display,
+    update_research_team_status,
+)
+from cli.models import AnalystType
+from cli.stats_handler import StatsCallbackHandler
+from cli.utils import detect_asset_type, filter_analysts_for_asset_type
+from tradingagents.default_config import DEFAULT_CONFIG
 from tradingagents.graph.analyst_execution import (
     AnalystWallTimeTracker,
     build_analyst_execution_plan,
     get_initial_analyst_node,
 )
-from tradingagents.default_config import DEFAULT_CONFIG
-from cli.main import (
-    message_buffer,
-    create_layout,
-    update_display,
-    update_analyst_statuses,
-    update_research_team_status,
-    save_report_to_disk,
-    display_complete_report,
-    classify_message_type,
-    ANALYST_ORDER,
-)
-from cli.utils import detect_asset_type, filter_analysts_for_asset_type
-from cli.models import AnalystType
-from cli.stats_handler import StatsCallbackHandler
+from tradingagents.graph.trading_graph import TradingAgentsGraph
 
 console = Console()
 
@@ -45,7 +46,17 @@ config["max_debate_rounds"] = 1
 config["max_risk_discuss_rounds"] = 1
 
 
-def _get_ticker() -> str:
+def _parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Simplified TradingAgents runner.")
+    parser.add_argument(
+        "ticker", nargs="?", default=None, help="Ticker symbol (e.g. AAPL, SPY, BTC-USD)"
+    )
+    return parser.parse_args()
+
+
+def _get_ticker(ticker: str | None) -> str:
+    if ticker:
+        return ticker.strip().upper()
     ticker = questionary.text(
         "Ticker symbol (e.g. AAPL, SPY, BTC-USD):",
         validate=lambda v: bool(v.strip()) or "Please enter a ticker symbol.",
@@ -56,8 +67,8 @@ def _get_ticker() -> str:
     return ticker.strip().upper()
 
 
-def run() -> None:
-    ticker = _get_ticker()
+def run(ticker: str | None = None) -> None:
+    ticker = _get_ticker(ticker)
     trade_date = datetime.date.today().strftime("%Y-%m-%d")
     asset_type = detect_asset_type(ticker)
     console.print(
@@ -194,4 +205,4 @@ def run() -> None:
 
 
 if __name__ == "__main__":
-    run()
+    run(_parse_args().ticker)
