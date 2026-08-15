@@ -1,0 +1,7 @@
+**Rating**: Hold
+
+**Executive Summary**: Maintain current position size in ZTS while adjusting the stop loss down to $68.50 to allow a proper 1-ATR volatility buffer below the $71.50 support floor. Overhead technical resistance remains capped between $75.50 and $76.20, anchored by the 50-day SMA and VWMA. Re-evaluate for an upgrade to Overweight only upon organic top-line re-acceleration above 3% YoY or a confirmed breakout above $76.20 over a 3-6 month horizon.
+
+**Investment Thesis**: Zoetis exhibits a strong valuation floor, trading at a compressed forward P/E below 11x relative to its historical 25x-35x range, underpinned by a 40.72% operating margin, $2.02B in trailing free cash flow, and 16x interest coverage. Alarm over the 293.99% debt-to-equity ratio is largely an accounting artifact driven by $11.85B in cumulative treasury share buybacks rather than balance sheet distress. However, immediate capital deployment is constrained by real operational headwinds, including a -1% organic top-line revenue contraction and a 5.4% full-year revenue guidance cut to $9.22B, alongside negative technical momentum with MACD at -0.564 and price action trapped below the 10-day EMA ($75.10), VWMA ($75.77), and 50-day SMA ($76.18). The initial proposed stop loss at $71.00 was less than 1 ATR ($3.00 ATR from $73.54) from current levels, risking premature execution from intraday market noise; adjusting the stop to $68.50 provides adequate cushion while maintaining strict risk discipline.
+
+**Time Horizon**: 3-6 months

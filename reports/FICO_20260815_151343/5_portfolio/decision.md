@@ -1,0 +1,9 @@
+**Rating**: Hold
+
+**Executive Summary**: Maintain a neutral position in FICO without deploying fresh capital until technical overhead and balance sheet leverage normalize. Protect existing exposure with a tight tactical stop-loss below structural support at $1,010 to prevent downside risk toward $925. Upside expansion should only be pursued following a volume-backed breakout above $1,180, aiming for a price target of $1,350 over a 3-6 month holding period.
+
+**Investment Thesis**: FICO represents a balanced clash between strong core operational execution and elevated financial and technical risks. On the fundamental front, FICO maintains exceptional cash generation with an 87% gross margin, 53.8% operating margin, and $774 million in annual free cash flow. The software transition achieved a key milestone with Platform revenue surpassing legacy software, complemented by expanding direct licensing coverage to 73.1% of U.S. mortgage reseller volume. At a forward P/E of 20.5x and a PEG ratio of 0.73, valuation remains compressed. However, aggressive debt-funded share buybacks elevated total leverage to $5.6 million with $60 million in quarterly interest drag, coinciding with a trimmed full-year top-line guidance and adoption friction from VantageScore 4.0. Technically, the stock faces dynamic overhead resistance at the $1,118 VWMA and $1,180 50-day SMA while testing $1,030-$1,040 support. Maintaining a Hold stance avoids panic-selling a high-moat cash compounder at distressed multiples while preventing premature exposure to downside liquidity traps.
+
+**Price Target**: 1350.0
+
+**Time Horizon**: 3-6 months

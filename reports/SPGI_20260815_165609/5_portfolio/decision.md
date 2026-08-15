@@ -1,0 +1,9 @@
+**Rating**: Buy
+
+**Executive Summary**: Initiate a staged long position in SPGI starting with an initial 3% portfolio allocation in the $415.00-$418.80 range, scaling up to 4% upon a confirmed daily close above $419.46. Set an initial stop-loss at $401.50 to maintain a 2-ATR buffer below the $405.24 swing low, with primary and secondary profit targets set at $431.30 and $441.90 respectively. The recommended holding time horizon is 3-6 months to allow macro rate cuts and refinancing tailwinds to materialize.
+
+**Investment Thesis**: S&P Global Inc. (SPGI) presents an attractive asymmetric risk/reward profile as concerns surrounding generative AI disruption prove unfounded. Proprietary price benchmarks such as Platts, regulatory NRSRO credit rating mandates, and benchmarked index licensing form a durable moat that generic AI models cannot replicate; instead, integrations with platforms like Microsoft 365 Copilot enhance monetization potential. SPGI demonstrates exceptional underlying fundamental strength, characterized by 10.4% YoY Q2 revenue growth to $4.15 billion, robust 44.8% operating margins, and $5.57 billion in TTM free cash flow. At a 20.7x forward P/E, SPGI trades at a distinct discount to its historical 28-32x range. Macro tailwinds, including record high S&P 500 levels boosting high-margin recurring index fees and pending interest rate cuts expected to spur corporate debt refinancing, serve as powerful earnings catalysts. Address technical resistance at the 20-day Bollinger Middle Band ($419.46) and the declining 200-day SMA ($431.31) via a staged accumulation strategy anchored near the 50-day SMA ($414.33) to protect capital while capturing upside.
+
+**Price Target**: 441.9
+
+**Time Horizon**: 3-6 months

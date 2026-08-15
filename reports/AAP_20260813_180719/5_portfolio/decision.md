@@ -1,0 +1,7 @@
+**Rating**: Hold
+
+**Executive Summary**: Maintain a neutral Hold stance on Advance Auto Parts (AAP) heading into the August 20 earnings print. Keep current position sizing unchanged, utilizing structural support at the 200-day SMA ($52.20) and a strict risk-management stop loss at $51.00 to limit downside risk. Re-evaluate the position over a 3-6 month horizon after management demonstrates organic positive free cash flow and strategic debt paydown.
+
+**Investment Thesis**: AAP presents a balanced tug-of-war between operational turnaround momentum and heavy capital structure drag. On the positive side, operational execution is expanding gross margins for four consecutive quarters to 45.14% and restoring quarterly operating income to $101 million. Additionally, $2.956 billion in cash reserves from non-core asset sales keeps net debt manageable at ~$458 million and provides ample runway. However, structural headwinds remain severe: quarterly interest expenses of $65 million consume roughly 75% of operating income, keeping net margin at a thin 0.9% while TTM free cash flow stands at -$228 million. With the cash reserve funded by one-off divestitures rather than organic cash flow, and pre-earnings overnight gap risks present, holding a neutral allocation until organic cash flow turns positive and gross debt is paid down is the most prudent strategy.
+
+**Time Horizon**: 3-6 months
